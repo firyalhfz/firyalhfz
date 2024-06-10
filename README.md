@@ -1,4 +1,3 @@
-# Firyal Huwaida Fauzi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=firyalhfz&style=flat-square)
 
