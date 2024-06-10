@@ -30,8 +30,6 @@
 
 ## 📈 GitHub Stats
 
-![Firyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=firyalhfz&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firyalhfz&layout=compact&theme=radical)
 
 ---
