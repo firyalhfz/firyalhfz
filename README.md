@@ -1,14 +1,17 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=firyalhfz&style=flat-square)
 
-## About Me
+## 👋 About Me
 
-👋 Hi, I'm Firyal Huwaida Fauzi, a Software Engineer based in Bandung, Indonesia. I specialize in *Frontend Development* and have 2 years of experience in building and maintaining websites.
+ Hi, I'm Firyal Huwaida Fauzi, a Software Engineer based in Bandung, Indonesia. I specialize in *Frontend Development* and have 2 years of experience in building and maintaining websites.
 
-📫 Reach me at:
+
+## 📫 Reach me at:
+
 - **Email:** [firyalhuwaidaa@gmail.com](mailto:firyalhuwaidaa@gmail.com)
 - **LinkedIn:** [firyal-huwaida-fauzi](https://www.linkedin.com/in/firyal-huwaida-fauzi)
 - **Portfolio:** [firyal](http://firyal.vercel.app)
+
 
 ## 🛠️ Technologies & Tools
 
