@@ -16,7 +16,7 @@
 ## 🛠️ Technologies & Tools
 
 - **Languages:** JavaScript, TypeScript, Dart
-- **Frameworks & Libraries:** React, Next.js, Flutter
+- **Frameworks & Libraries:** React, Next.js, Flutter, Svelte
 - **Libraries UI:** Ant Design, Tailwind CSS, Chakra UI, Material UI
 - **Tools & Platforms:** Git, Agile & Scrum methodologies
 
